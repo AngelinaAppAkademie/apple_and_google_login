@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9006298781",
+    "project_id": "batch-1-auth",
+    "storage_bucket": "batch-1-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9006298781:android:824a08908e25e1f1408674",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_batch_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHEpTF9sito8XYGG0nWGijxUNN3SwgMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
